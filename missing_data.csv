@@ -1,0 +1,11 @@
+Name,Age,City,Salary
+Alice,25,New York,50000
+Bob,30,Los Angeles,60000
+Charlie,22,,
+David,,Houston,70000
+Eve,35,Miami,65000
+,28,Chicago,48000
+Grace,,Boston,62000
+Hank,40,,
+Ivy,23,Seattle,53000
+Jack,31,Denver,72000
